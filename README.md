@@ -67,12 +67,10 @@ This repository includes a Jupyter notebook (`siamese-main.ipynb`) with the foll
 5. **Evaluation**: Code for evaluating the model's performance on cross-lingual classification tasks.
 6. **Plots**: Visualizations of the training process, loss curves, and evaluation metrics.
 
-### Example Plots
-
-* **Training Loss**: A plot showing the decrease in loss over training epochs.
-* **Embedding Visualizations**: 2D or 3D visualizations of the learned embeddings, showing the semantic distance between text pairs.
-* **Accuracy vs Epochs**: A plot showing classification accuracy over different epochs of training.
-
+### Plots
+![Alt text](./data/1.png)
+![Alt text](./data/2.png)
+![Alt text](./data/3.png)
 ## Usage
 
 To run the notebook:

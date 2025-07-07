@@ -68,9 +68,9 @@ This repository includes a Jupyter notebook (`siamese-main.ipynb`) with the foll
 6. **Plots**: Visualizations of the training process, loss curves, and evaluation metrics.
 
 ### Plots
-![Alt text](./Data/1.png)
 ![Alt text](./Data/2.png)
 ![Alt text](./Data/3.png)
+![Alt text](./Data/1.png)
 ## Usage
 
 To run the notebook:
